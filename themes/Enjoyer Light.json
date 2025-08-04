@@ -19,7 +19,9 @@
 		"statusBar.noFolderBorder": "#404142",
 		"statusBarItem.remoteBackground": "#404142",
 		"statusBarItem.remoteForeground": "#F1FDFF",
-		"statusBarItem.hoverBackground": "default"
+		"statusBarItem.hoverBackground": "default",
+		"sideBar.border": "#CCCCCC",
+		"panel.border": "#CCCCCC"
 	},
 	"tokenColors": [
 		{

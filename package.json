@@ -2,8 +2,9 @@
   "name": "enjoyer-theme",
   "publisher": "nikkymen",
   "displayName": "Enjoyer Theme",
-  "description": "Enjoyer Theme",
-  "version": "0.0.1",
+  "description": "Light color theme inspired by QtCreator",
+  "version": "0.0.4",
+  "icon": "images/logo.png",
   "preview": true,
   "repository": {
     "type": "git",
